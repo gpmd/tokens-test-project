@@ -1,0 +1,12 @@
+{
+  "name": "tokens-test-project",
+  "version": "1.0.0",
+  "description": "Figma Design Tokens to Style Dictionary test project",
+  "main": "index.js",
+  "repository": "git@github.com:gpmd/tokens-test-project.git",
+  "author": "Matt Bailey <matt@gpmd.co.uk>",
+  "license": "MIT",
+  "devDependencies": {
+    "style-dictionary": "^3.7.1"
+  }
+}
